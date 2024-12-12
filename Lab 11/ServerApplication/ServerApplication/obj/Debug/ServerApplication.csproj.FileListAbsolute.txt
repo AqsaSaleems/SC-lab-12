@@ -1,0 +1,7 @@
+C:\Users\BUKC\Desktop\ServerApplication\ServerApplication\bin\Debug\ServerApplication.exe.config
+C:\Users\BUKC\Desktop\ServerApplication\ServerApplication\bin\Debug\ServerApplication.exe
+C:\Users\BUKC\Desktop\ServerApplication\ServerApplication\bin\Debug\ServerApplication.pdb
+C:\Users\BUKC\Desktop\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csproj.AssemblyReference.cache
+C:\Users\BUKC\Desktop\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csproj.CoreCompileInputs.cache
+C:\Users\BUKC\Desktop\ServerApplication\ServerApplication\obj\Debug\ServerApplication.exe
+C:\Users\BUKC\Desktop\ServerApplication\ServerApplication\obj\Debug\ServerApplication.pdb
